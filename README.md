@@ -42,9 +42,9 @@
 ### 📊 GitHub
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/RaccoonLaptop?style=for-the-badge&logo=github&color=181717" alt="followers"/>
-  <img src="https://img.shields.io/github/commit-activity/y/RaccoonLaptop?style=for-the-badge&logo=github&color=58a6ff" alt="activity"/>
-  <img src="https://img.shields.io/github/repos/RaccoonLaptop?style=for-the-badge&logo=github&color=3fb950" alt="repos"/>
+  <img src="https://img.shields.io/github/followers/RaccoonLaptop?label=Followers&style=for-the-badge&logo=github&color=181717" alt="followers"/>
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Open_Source-3fb950?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="open source"/>
 </p>
 
 <p align="center">
