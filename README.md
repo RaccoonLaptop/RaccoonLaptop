@@ -39,15 +39,9 @@
 | [**Niko_Matrix**](https://github.com/RaccoonLaptop/Niko_Matrix) | Matrix Rain и сетевые утилиты |
 | [**ZapretUI**](https://github.com/RaccoonLaptop/ZapretUI) | Open source · WPF |
 
-### 📊 GitHub
+### 📊 Активность
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/RaccoonLaptop?label=Followers&style=for-the-badge&logo=github&color=181717" alt="followers"/>
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-  <img src="https://img.shields.io/badge/Open_Source-3fb950?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="open source"/>
-</p>
-
-<p align="center">
-  <img alt="Contribution snake"
+  <img alt="График коммитов"
        src="https://raw.githubusercontent.com/RaccoonLaptop/RaccoonLaptop/main/output/github-contribution-grid-snake.svg"/>
 </p>
