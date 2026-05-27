@@ -21,9 +21,10 @@ jobs:
       - name: Download stats SVG
         run: |
           mkdir -p output
-          curl -fsSL "https://github-readme-stats.anuraghaz.dev/api?username=RaccoonLaptop&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" -o output/github-stats.svg
-          curl -fsSL "https://github-readme-stats.anuraghaz.dev/api/top-langs/?username=RaccoonLaptop&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" -o output/github-langs.svg
+          curl -fsSL "https://github-readme-stats.vercel.app/api?username=RaccoonLaptop&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" -o output/github-stats.svg
+          curl -fsSL "https://github-readme-stats.vercel.app/api/top-langs/?username=RaccoonLaptop&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" -o output/github-langs.svg
           curl -fsSL "https://streak-stats.demolab.com?user=RaccoonLaptop&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=3FB950&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" -o output/github-streak.svg
+          ls -la output/
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
