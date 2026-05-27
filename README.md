@@ -1,55 +1,54 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RaccoonLaptop/ZapretUI/main/Assets/icon-readme.png" width="120" alt="Niko">
-
 # 🦝 Niko · RaccoonLaptop
 
-**Windows apps · WPF · C# · Automation**
+**Разработчик приложений для Windows**
 
 *he/him* · UTC+3
 
-[![Zapret UI](https://img.shields.io/badge/Zapret_UI-Guide-6b9fff?style=for-the-badge&logo=github&logoColor=white)](https://raccoonlaptop.github.io/ZapretUI/)
-[![Releases](https://img.shields.io/github/v/release/RaccoonLaptop/ZapretUI?style=for-the-badge&label=ZapretUI&color=8fd460)](https://github.com/RaccoonLaptop/ZapretUI/releases)
-
 </div>
 
 ---
 
-### 👋 About
+### 👋 Что умею
 
-Разрабатываю удобные инструменты для Windows. Главный проект — **[Zapret UI](https://github.com/RaccoonLaptop/ZapretUI)** — современный интерфейс для конфигов [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube).
+- **Desktop (C# / WPF / .NET)** — окна, навигация, тёмные темы, анимации, системный трей  
+- **Интерфейсы** — понятные сценарии для пользователя, RU / EN, диалоги и статусы  
+- **PowerShell** — автоматизация, мост между UI и внешними процессами  
+- **Python** — утилиты, визуальные эффекты, вспомогательные скрипты  
+- **Сборка и доставка** — установщики (Inno Setup), автообновления, portable-сборки  
+- **Сеть и Windows** — работа с процессами, брандмауэр, Defender, диагностика  
 
-### 🛠 Stack
+### 🛠 Стек
 
-![Skills](https://go.skillicons.dev/icons?i=cs,dotnet,py,powershell,git,github,vscode,windows&theme=dark)
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white" alt="WPF"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
 
-### 📌 Projects
+### 📌 Репозитории
 
-| Project | Description |
-|---------|-------------|
-| [**ZapretUI**](https://github.com/RaccoonLaptop/ZapretUI) | WPF UI для Zapret — запуск стратегий, редактор `.bat`, трей, RU/EN |
-| [**Niko_Matrix**](https://github.com/RaccoonLaptop/Niko_Matrix) | Matrix Rain + сетевые утилиты |
-| [**Guide**](https://raccoonlaptop.github.io/ZapretUI/) | Руководство пользователя Zapret UI |
+| | |
+|:---:|:---|
+| [**Niko_Matrix**](https://github.com/RaccoonLaptop/Niko_Matrix) | Matrix Rain и сетевые утилиты |
+| [**ZapretUI**](https://github.com/RaccoonLaptop/ZapretUI) | Open source · WPF |
 
-### 📊 GitHub
+### 📊 Активность
 
-<div align="center">
+<p align="center">
+  <img height="170" alt="GitHub stats"
+       src="https://github-readme-stats.vercel.app/api?username=RaccoonLaptop&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&cache_seconds=7200"/>
+  <img height="170" alt="Top languages"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaccoonLaptop&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=7200"/>
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RaccoonLaptop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=08090d&title_color=6b9fff&icon_color=8fd460&text_color=e8ebf4" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaccoonLaptop&layout=compact&theme=tokyonight&hide_border=true&bg_color=08090d&title_color=6b9fff&text_color=e8ebf4" alt="langs"/>
-
-</div>
-
-<div align="center">
-
-![Snake](https://raw.githubusercontent.com/RaccoonLaptop/RaccoonLaptop/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-<div align="center">
-
-*Thanks to [Flowseal](https://github.com/Flowseal) and [bol-van/zapret](https://github.com/bol-van/zapret) for the core bypass work.*
-
-</div>
+<p align="center">
+  <img alt="Contribution snake"
+       src="https://raw.githubusercontent.com/RaccoonLaptop/RaccoonLaptop/main/output/github-contribution-grid-snake.svg"/>
+</p>
