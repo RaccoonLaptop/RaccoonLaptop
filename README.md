@@ -37,7 +37,7 @@
 | | |
 |:---:|:---|
 | [**Niko_Matrix**](https://github.com/RaccoonLaptop/Niko_Matrix) | Matrix Rain и сетевые утилиты |
-| [**ZapretUI**](https://github.com/RaccoonLaptop/ZapretUI) | Open source · WPF |
+| [**Aeroway**](https://github.com/RaccoonLaptop/Aeroway) | Интерфейс для zapret и конфигов Flowseal |
 
 ### 📊 Активность
 
